@@ -1,2 +1,2 @@
 # responsive-website
-responsive website layout at frone end only
+responsive website layout at front end only
